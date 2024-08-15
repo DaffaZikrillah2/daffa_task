@@ -120,7 +120,7 @@ class _DetailJurnalPageState extends State<DetailJurnalPage> {
                     ],
                   ),
                   child: const Text(
-                    'Kegiatan membaca Al-Quran bersama di masjid setelah shalat subuh. '
+                    'Kegiatan membaca Al-Quran bersama di masjid setelah shalat subuh dan isya. '
                     'Kegiatan ini dilakukan untuk meningkatkan pemahaman dan kecintaan terhadap Al-Quran.',
                     style: TextStyle(
                       fontSize: 16,

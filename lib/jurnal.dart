@@ -329,14 +329,12 @@ class Jurnal {
 
 List<Jurnal> jurnalData = [
   Jurnal(
-    title: 'Membaca Al-Quran',
+    title: 'Bela Diri Karate',
     tanggal: '2024-08-13',
     status: 'Hadir',
     gambar: '',
-    thumb:
-        'https://static.vecteezy.com/system/resources/previews/021/576/920/original/al-quran-simple-flat-icon-illustration-vector.jpg',
-    deskripsi:
-        'Kegiatan membaca Al-Quran bersama di masjid setelah shalat subuh.',
+    thumb: 'https://cdn-icons-png.freepik.com/512/5252/5252910.png',
+    deskripsi: 'Kegiatan Bela Diri Karate Setiap Hari Ahad.',
   ),
   Jurnal(
     title: 'Shalat Dhuha',
@@ -344,14 +342,15 @@ List<Jurnal> jurnalData = [
     status: 'Tidak Hadir',
     gambar: '',
     thumb: 'https://cdn-icons-png.flaticon.com/512/2320/2320012.png',
-    deskripsi: 'Melaksanakan shalat dhuha di rumah secara mandiri.',
+    deskripsi: 'Melaksanakan Shalat Dhuha Di Masjid Secara Mandiri.',
   ),
   Jurnal(
     title: 'Membaca Buku',
     tanggal: '2024-08-11',
     status: 'Hadir',
     gambar: '',
-    thumb: '',
+    thumb:
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HGEp9WoWBu1_6BZstqmNV21BC0Keic8blw&s',
     deskripsi: 'Kegiatan Membaca Buku di Perpustakaan',
   ),
   Jurnal(
@@ -360,85 +359,7 @@ List<Jurnal> jurnalData = [
     status: 'Hadir',
     gambar: '',
     thumb:
-        'https://static.vecteezy.com/system/resources/previews/021/576/920/original/al-quran-simple-flat-icon-illustration-vector.jpg',
-    deskripsi:
-        'Kegiatan membaca Al-Quran bersama di masjid setelah shalat subuh.',
-  ),
-  Jurnal(
-    title: 'Shalat Dhuha',
-    tanggal: '2024-08-12',
-    status: 'Tidak Hadir',
-    gambar: '',
-    thumb: 'https://cdn-icons-png.flaticon.com/512/2320/2320012.png',
-    deskripsi: 'Melaksanakan shalat dhuha di rumah secara mandiri.',
-  ),
-  Jurnal(
-    title: 'Membaca Buku',
-    tanggal: '2024-08-11',
-    status: 'Hadir',
-    gambar: '',
-    thumb: '',
-    deskripsi: 'Kegiatan Membaca Buku di Perpustakaan',
-  ),
-  Jurnal(
-    title: 'Membaca Al-Quran',
-    tanggal: '2024-08-13',
-    status: 'Hadir',
-    gambar: '',
-    thumb:
-        'https://static.vecteezy.com/system/resources/previews/021/576/920/original/al-quran-simple-flat-icon-illustration-vector.jpg',
-    deskripsi:
-        'Kegiatan membaca Al-Quran bersama di masjid setelah shalat subuh.',
-  ),
-  Jurnal(
-    title: 'Shalat Dhuha',
-    tanggal: '2024-08-12',
-    status: 'Tidak Hadir',
-    gambar: '',
-    thumb: 'https://cdn-icons-png.flaticon.com/512/2320/2320012.png',
-    deskripsi: 'Melaksanakan shalat dhuha di rumah secara mandiri.',
-  ),
-  Jurnal(
-    title: 'Membaca Buku',
-    tanggal: '2024-08-11',
-    status: 'Hadir',
-    gambar: '',
-    thumb: '',
-    deskripsi: 'Kegiatan Membaca Buku di Perpustakaan',
-  ),
-  Jurnal(
-    title: 'Membaca Al-Quran',
-    tanggal: '2024-08-13',
-    status: 'Hadir',
-    gambar: '',
-    thumb:
-        'https://static.vecteezy.com/system/resources/previews/021/576/920/original/al-quran-simple-flat-icon-illustration-vector.jpg',
-    deskripsi:
-        'Kegiatan membaca Al-Quran bersama di masjid setelah shalat subuh.',
-  ),
-  Jurnal(
-    title: 'Shalat Dhuha',
-    tanggal: '2024-08-12',
-    status: 'Tidak Hadir',
-    gambar: '',
-    thumb: 'https://cdn-icons-png.flaticon.com/512/2320/2320012.png',
-    deskripsi: 'Melaksanakan shalat dhuha di rumah secara mandiri.',
-  ),
-  Jurnal(
-    title: 'Membaca Buku',
-    tanggal: '2024-08-11',
-    status: 'Hadir',
-    gambar: '',
-    thumb: '',
-    deskripsi: 'Kegiatan Membaca Buku di Perpustakaan',
-  ),
-  Jurnal(
-    title: 'Membaca Al-Quran',
-    tanggal: '2024-08-13',
-    status: 'Hadir',
-    gambar: '',
-    thumb:
-        'https://static.vecteezy.com/system/resources/previews/021/576/920/original/al-quran-simple-flat-icon-illustration-vector.jpg',
+        'https://png.pngtree.com/png-clipart/20220125/original/pngtree-gambar-anak-mengaji-membaca-al-quran-png-image_7229719.png',
     deskripsi:
         'Kegiatan membaca Al-Quran bersama di masjid setelah shalat subuh.',
   ),
